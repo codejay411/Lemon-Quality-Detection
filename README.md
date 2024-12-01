@@ -1,4 +1,4 @@
-# Insurance-premium-prediction-using-django
+# Lemon Quality Detection
 
 Steps to run this project locally on your system:-
 
